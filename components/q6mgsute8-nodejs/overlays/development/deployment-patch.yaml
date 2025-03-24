@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: nexus-docker-nexus.apps.rosa.rhtap-services.xmdt.p3.openshiftapps.com/rhtap/rhtap-qe-nodejs:ff435c5bd9b440ce91ac62cd7873dd7008afaca3@sha256:137cc4bed07a053c99fdd7bb998058d82ebc009fe3d47f849fd443d76eb01ba4
+        - image: nexus-docker-nexus.apps.rosa.rhtap-services.xmdt.p3.openshiftapps.com/rhtap/rhtap-qe-nodejs:7e7095e96437d75119dc2bcab4583c97b4d816c2@sha256:74a59adb0cb817f93db92776ccea580cc7bfa6e5eb751a12addbbca8b2d3b89a
           name: container-image
